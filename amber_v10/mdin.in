@@ -1,0 +1,9 @@
+Hair pin 1: initial minimization prior to MD
+ &cntrl
+  imin   = 1,
+  maxcyc = 500,
+  ncyc   = 1500,
+  ntb    = 0,
+  igb    = 0,
+  cut    = 12
+ /
